@@ -1,0 +1,21 @@
+﻿<tile>
+  <visual>
+    <binding template='TileSmall' branding='name'>
+      <text hint-style='caption' hint-wrap='true'>{0}</text>
+    </binding>
+
+    <binding template='TileMedium' branding='name'>
+      <text hint-style='caption' hint-wrap='true'>{0}</text>
+    </binding>
+
+    <binding template='TileWide' branding='name'>
+      <text hint-style='caption' hint-wrap='true'>{0}</text>
+      <text hint-style='base' hint-wrap='true'>{1}</text>
+    </binding>
+
+    <binding template='TileLarge' branding='name'>
+      <text hint-style='caption' hint-wrap='true'>{0}</text>
+      <text hint-style='base' hint-wrap='true'>{1}</text>
+    </binding>
+  </visual>
+</tile>
